@@ -42,9 +42,9 @@ This project involves designing a data warehouse and developing an ETL (Extract,
    - The SSIS project in `etl_process` extracts and transforms data from Excel files to the data warehouse.
 
 ## Screenshots
-! [Data Warehouse ERD](./screenshots/dwh_erd.png)
+![Data Warehouse ERD](./screenshots/dwh_erd.png)
 
-! [SSIS ETL Process](./screenshots/ssis_etl_process.png)
+![SSIS ETL Process](./screenshots/ssis_etl_process.png)
 
 ## Contributing
 If you'd like to contribute to the project, please follow the standard GitHub flow:
